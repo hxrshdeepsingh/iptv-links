@@ -10,7 +10,4 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 
 #EXTINF:-1 tvg-name="Anime Vision Classics" group-title="Anime",Anime Vision Classics
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
-#EXTINF:-1 tvg-name="India IPTV Playlist" group-title="India",India IPTV Playlist
-https://iptv-org.github.io/iptv/countries/in.m3u
+https://iptv-org.github.io/iptv/index.m3u
